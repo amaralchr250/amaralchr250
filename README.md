@@ -38,5 +38,6 @@ Here are some thinks about me!
 ## My Portfolio CV Tech, click one image below!
 
 
-<a href="https://github.com/amaralchr250](https://amaralchr250.github.io/Christopher-Portfolio-main"> <img src="https://github.com/amaralchr250/amaralchr250/assets/42553791/2b8298a7-e312-45eb-9594-512f6b2c6688">
+https://amaralchr250.github.io/Christopher-Portfolio-main 
+<p><img src="https://github.com/amaralchr250/amaralchr250/assets/42553791/2b8298a7-e312-45eb-9594-512f6b2c6688"> </p>
 </a>
