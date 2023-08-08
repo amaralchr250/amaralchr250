@@ -4,7 +4,7 @@
 
 -->
 
-![octocat-1691505346697](https://github.com/amaralchr250/amaralchr250/assets/42553791/b82eef27-6542-4db7-aadc-8cafdaa016a2)
+![octocat-1691505346697](https://github.com/amaralchr250/amaralchr250/assets/42553791/26097b63-39ec-4080-af28-a928381b19a4)
 
 Here are some thinks about me!
 
@@ -34,5 +34,3 @@ Here are some thinks about me!
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaralchr250&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-![Snake animation](https://github.com/amaralchr250/amaralchr250/blob/output/github-contribution-grid-snake.svg)
