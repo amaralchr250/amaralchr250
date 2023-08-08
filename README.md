@@ -4,7 +4,7 @@
 
 -->
 
-![octocat-1691505346697](https://github.com/amaralchr250/README.md/assets/42553791/63fc3b38-0744-4278-ab21-95d395eaa675)
+505346697](https://github.com/amaralchr250/README.md/assets/42553791/63fc3b38-0744-4278-ab21-95d395eaa675)
 
 Here are some thinks about me!
 
