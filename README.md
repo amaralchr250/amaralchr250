@@ -11,7 +11,7 @@ Here are some thinks about me!
 - 🔭 I’m currently working on ... Plataform Software Enginner
 - 🌱 I’m currently learning ... About Cloud and Devops developer with Back-End and Front-End environment
 
-## Estou aprendendo
+## Learning and Practicing 🕵🏻‍♂️
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
