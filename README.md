@@ -42,7 +42,7 @@ Here are some thinks about me!
  <img src="https://github.com/amaralchr250/amaralchr250/assets/42553791/2b8298a7-e312-45eb-9594-512f6b2c6688"/>
 
 
-##My project Website
+## My project Website
 
 Starting a project to help the public get their job remotely as quickly as possible, it is under development but the website is already available:
 
