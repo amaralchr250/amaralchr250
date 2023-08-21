@@ -50,6 +50,5 @@ Using accessible resources for the most professional platform possible.
 
 - https://procurajobs.com.br/
 
-![image](https://github.com/amaralchr250/amaralchr250/assets/42553791/8071d23a-a441-4393-9fdd-71736335f8ea)
-
+![image](https://github.com/amaralchr250/amaralchr250/assets/42553791/30ce6ec5-51fe-4497-8db6-6a3132ff8419)
 
